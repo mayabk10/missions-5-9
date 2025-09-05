@@ -61,6 +61,7 @@ public class Bicycle {
     public String describe() {
         return "color: " + color +
 
-                " current speed: " + currentSpeed + " bell sound :" + bellSound;
+                " current speed: " + currentSpeed +
+                " bell sound :" + bellSound;
     }
 }
